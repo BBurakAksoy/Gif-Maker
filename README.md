@@ -34,7 +34,4 @@ The images are sorted alphabetically before creating the GIF.
 
 If no valid images are found, the script will display an error message.
 
-License
-
-This project is open-source and available under the MIT License.
 
